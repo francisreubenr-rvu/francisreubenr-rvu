@@ -18,8 +18,8 @@
 
 <br>
 
-<!-- ===================== ABOUT + MEME ===================== -->
-<img align="right" width="320" src="https://i.imgflip.com/1otk96.jpg" alt="It works on my machine meme" />
+<!-- ===================== ABOUT + HACKER GIF ===================== -->
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker at the terminal" />
 
 ### About Me
 
@@ -129,7 +129,11 @@ An adaptive-intelligence experiment exploring systems that adjust to user behavi
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/output/snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/output/snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
