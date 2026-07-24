@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Francis%20Reuben%20R&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Builder%20%C2%B7%20CV%20%2B%20Accessibility%20%C2%B7%20Real-world%20tools&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header" />
 
 <!-- ===================== ASCII TITLE CARD ===================== -->
 <p align="center">
@@ -154,5 +154,11 @@ Webcam-based guitar coach with real-time hand-landmark tracking and chord recogn
 
 <br>
 
+<p align="center">
+
+**𝔅𝔲𝔦𝔩𝔡 𝔦𝔱. 𝔖𝔥𝔦𝔭 𝔦𝔱. ℑ𝔱𝔢𝔯𝔞𝔱𝔢.**
+
+</p>
+
 <!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&text=Build%20it.%20Ship%20it.%20Iterate.&fontColor=ffffff&fontSize=22&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" />
