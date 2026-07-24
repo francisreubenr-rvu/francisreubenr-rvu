@@ -1,44 +1,54 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:3B82F6&height=180&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:2563EB&height=180&section=header" />
+  <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:3B82F6&height=180&section=header" />
+</picture>
 
-<!-- ===================== ASCII TITLE CARD ===================== -->
+<!-- ===================== TITLE ===================== -->
 <p align="center">
 
-```
-══════════════════════════════════════════════════════════
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=1&pause=100000&center=true&vCenter=true&width=520&height=70&lines=Francis+Reuben+R&color=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=1&pause=100000&center=true&vCenter=true&width=520&height=70&lines=Francis+Reuben+R&color=2563EB" />
+  <img alt="Francis Reuben R" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=1&pause=100000&center=true&vCenter=true&width=520&height=70&lines=Francis+Reuben+R&color=3B82F6" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/name.svg" alt="Francis Reuben R" />
-
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/subtitle.svg" alt="Builder tagline" />
-
-```
-══════════════════════════════════════════════════════════
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1&pause=100000&center=true&vCenter=true&width=640&height=40&lines=Builder++%C2%B7++CV++%C2%B7++Accessibility++%C2%B7++Real-world+tools&color=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1&pause=100000&center=true&vCenter=true&width=640&height=40&lines=Builder++%C2%B7++CV++%C2%B7++Accessibility++%C2%B7++Real-world+tools&color=2563EB" />
+  <img alt="Builder  ·  CV  ·  Accessibility  ·  Real-world tools" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=1&pause=100000&center=true&vCenter=true&width=640&height=40&lines=Builder++%C2%B7++CV++%C2%B7++Accessibility++%C2%B7++Real-world+tools&color=3B82F6" />
+</picture>
 
 </p>
 
 <!-- ===================== TAGLINE ===================== -->
 <p align="center">
-  <a href="https://github.com/francisreubenr-rvu">
-    <img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/tagline.svg" alt="Tagline" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=1&pause=100000&center=true&vCenter=true&width=640&height=40&lines=CS+%40+RVU+25++%C2%B7++India+++%7C+++Build+it.++Ship+it.++Iterate.&color=3B82F6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=1&pause=100000&center=true&vCenter=true&width=640&height=40&lines=CS+%40+RVU+25++%C2%B7++India+++%7C+++Build+it.++Ship+it.++Iterate.&color=2563EB" />
+    <img alt="CS @ RVU 25  ·  India   |   Build it.  Ship it.  Iterate." src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=1&pause=100000&center=true&vCenter=true&width=640&height=40&lines=CS+%40+RVU+25++%C2%B7++India+++%7C+++Build+it.++Ship+it.++Iterate.&color=3B82F6" />
+  </picture>
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/francis-reuben-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:francisreubenrbtech25@rvu.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/francisreubenr-rvu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=francisreubenr-rvu&style=for-the-badge&color=8E2DE2" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/francis-reuben-r"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:francisreubenrbtech25@rvu.edu.in"><img src="https://img.shields.io/badge/Email-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/francisreubenr-rvu"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=francisreubenr-rvu&style=for-the-badge&color=3B82F6" alt="Profile views" />
 </p>
 
 <br>
 
-<!-- ===================== ABOUT + HACKER GIF ===================== -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37800f8381a.gif" alt="Hacker at the terminal" />
+<!-- ===================== ABOUT ===================== -->
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37800f8381a.gif" alt="Coding" />
 
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/about-me.svg" alt="About Me" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=260&height=55&lines=About+Me&color=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=260&height=55&lines=About+Me&color=2563EB" />
+  <img alt="About Me" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=260&height=55&lines=About+Me&color=3B82F6" />
+</picture>
 
 ```python
 class Francis:
@@ -56,34 +66,62 @@ class Francis:
 <br clear="right" />
 
 <!-- ===================== TECH STACK ===================== -->
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/tech-stack.svg" alt="Tech Stack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=280&height=55&lines=Tech+Stack&color=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=280&height=55&lines=Tech+Stack&color=2563EB" />
+  <img alt="Tech Stack" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=280&height=55&lines=Tech+Stack&color=3B82F6" />
+</picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,js,react,nodejs,html,css,git,vscode,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,python,js,react,nodejs,html,css,git,vscode,postgres&theme=dark" alt="Tech stack" />
 </p>
 
 <!-- ===================== GITHUB STATS ===================== -->
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/github-motion.svg" alt="GitHub in Motion" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=400&height=55&lines=GitHub+in+Motion&color=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=400&height=55&lines=GitHub+in+Motion&color=2563EB" />
+  <img alt="GitHub in Motion" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=400&height=55&lines=GitHub+in+Motion&color=3B82F6" />
+</picture>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=francisreubenr-rvu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisreubenr-rvu&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=francisreubenr-rvu&show_icons=true&include_all_commits=true&count_private=true&title_color=3B82F6&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0D1117&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=francisreubenr-rvu&show_icons=true&include_all_commits=true&count_private=true&title_color=2563EB&icon_color=0D9488&text_color=24292f&bg_color=ffffff&hide_border=true" />
+    <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=francisreubenr-rvu&show_icons=true&include_all_commits=true&count_private=true&title_color=3B82F6&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0D1117&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=francisreubenr-rvu&layout=compact&langs_count=8&title_color=3B82F6&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0D1117&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=francisreubenr-rvu&layout=compact&langs_count=8&title_color=2563EB&icon_color=0D9488&text_color=24292f&bg_color=ffffff&hide_border=true" />
+    <img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisreubenr-rvu&layout=compact&langs_count=8&title_color=3B82F6&icon_color=2DD4BF&text_color=c9d1d9&bg_color=0D1117&hide_border=true" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francisreubenr-rvu&theme=radical&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=francisreubenr-rvu&hide_border=true&background=0D1117&ring=3B82F6&fire=2DD4BF&currStreakLabel=3B82F6&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=francisreubenr-rvu&hide_border=true&background=ffffff&ring=2563EB&fire=0D9488&currStreakLabel=2563EB&sideNums=24292f&currStreakNum=24292f&sideLabels=24292f&dates=57606a" />
+    <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francisreubenr-rvu&hide_border=true&background=0D1117&ring=3B82F6&fire=2DD4BF&currStreakLabel=3B82F6&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=francisreubenr-rvu&theme=radical&no-frame=true&row=1&column=7&margin-w=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=francisreubenr-rvu&no-frame=true&row=1&column=7&margin-w=10&theme=onedark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=francisreubenr-rvu&no-frame=true&row=1&column=7&margin-w=10&theme=flat" />
+    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=francisreubenr-rvu&no-frame=true&row=1&column=7&margin-w=10&theme=onedark" />
+  </picture>
 </p>
 
 <br>
 
 <!-- ===================== TOP RATED PROJECTS ===================== -->
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/top-rated.svg" alt="Top Rated Projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=480&height=55&lines=Top+Rated+Projects&color=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=480&height=55&lines=Top+Rated+Projects&color=2563EB" />
+  <img alt="Top Rated Projects" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=480&height=55&lines=Top+Rated+Projects&color=3B82F6" />
+</picture>
 
-<sub>Ranked by a code-health audit — architecture, security, completeness — not star count.</sub>
+<p align="center"><sub>Ranked by a code-health audit — architecture, security, completeness — not star count.</sub></p>
 
 <table>
 <tr>
@@ -137,13 +175,17 @@ Webcam-based guitar coach with real-time hand-landmark tracking and chord recogn
 </table>
 
 <p align="center">
-  <a href="https://github.com/francisreubenr-rvu?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/francisreubenr-rvu?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 </p>
 
 <br>
 
-<!-- ===================== SNAKE ===================== -->
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/contribution.svg" alt="Contribution Graph" />
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=480&height=55&lines=Contribution+Graph&color=3B82F6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=480&height=55&lines=Contribution+Graph&color=2563EB" />
+  <img alt="Contribution Graph" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=1&pause=100000&center=true&vCenter=true&width=480&height=55&lines=Contribution+Graph&color=3B82F6" />
+</picture>
 
 <p align="center">
   <picture>
@@ -154,16 +196,27 @@ Webcam-based guitar coach with real-time hand-landmark tracking and chord recogn
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=francisreubenr-rvu&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=francisreubenr-rvu&hide_border=true&point=ffffff&theme=github-compact&bg_color=0D1117&color=3B82F6&line=2DD4BF&title_color=3B82F6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=francisreubenr-rvu&hide_border=true&point=ffffff&bg_color=ffffff&color=2563EB&line=0D9488&title_color=2563EB" />
+    <img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=francisreubenr-rvu&hide_border=true&point=ffffff&theme=github-compact&bg_color=0D1117&color=3B82F6&line=2DD4BF&title_color=3B82F6" />
+  </picture>
 </p>
 
 <br>
 
+<!-- ===================== FOOTER MOTTO ===================== -->
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/footer-motto.svg" alt="Build it. Ship it. Iterate." />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=1&pause=100000&center=true&vCenter=true&width=480&height=45&lines=Build+it.++Ship+it.++Iterate.&color=3B82F6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=1&pause=100000&center=true&vCenter=true&width=480&height=45&lines=Build+it.++Ship+it.++Iterate.&color=2563EB" />
+    <img alt="Build it.  Ship it.  Iterate." src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=1&pause=100000&center=true&vCenter=true&width=480&height=45&lines=Build+it.++Ship+it.++Iterate.&color=3B82F6" />
+  </picture>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:3B82F6&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:2563EB&height=120&section=footer" />
+  <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:3B82F6&height=120&section=footer" />
+</picture>
