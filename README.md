@@ -6,17 +6,22 @@
 
 ```
 ══════════════════════════════════════════════════════════
-   𝔉 𝔯 𝔞 𝔫 𝔠 𝔦 𝔰      ℜ 𝔢 𝔲 𝔟 𝔢 𝔫      ℜ
-   ── 𝔅𝔲𝔦𝔩𝔡𝔢𝔯 · ℭ𝔙 + 𝔄𝔠𝔠𝔢𝔰𝔰𝔦𝔟𝔦𝔩𝔦𝔱𝔶 · ℜ𝔢𝔞𝔩-𝔴𝔬𝔯𝔩𝔡 𝔱𝔬𝔬𝔩𝔰 ──
+```
+
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/name.svg" alt="Francis Reuben R" />
+
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/subtitle.svg" alt="Builder tagline" />
+
+```
 ══════════════════════════════════════════════════════════
 ```
 
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== TAGLINE ===================== -->
 <p align="center">
   <a href="https://github.com/francisreubenr-rvu">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=CS+%40+RVU+'25+%C2%B7+India;TypeScript+%2B+Python%2C+shipping+real+tools;Computer+vision+%7C+Accessibility+%7C+Healthtech;Build+it.+Ship+it.+Iterate." alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/tagline.svg" alt="Tagline" />
   </a>
 </p>
 
@@ -31,9 +36,9 @@
 <br>
 
 <!-- ===================== ABOUT + HACKER GIF ===================== -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker at the terminal" />
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37800f8381a.gif" alt="Hacker at the terminal" />
 
-### 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/about-me.svg" alt="About Me" />
 
 ```python
 class Francis:
@@ -51,14 +56,14 @@ class Francis:
 <br clear="right" />
 
 <!-- ===================== TECH STACK ===================== -->
-### 𝔗𝔢𝔠𝔥 𝔖𝔱𝔞𝔠𝔨
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/tech-stack.svg" alt="Tech Stack" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,python,js,react,nodejs,html,css,git,vscode,postgres&theme=dark" />
 </p>
 
 <!-- ===================== GITHUB STATS ===================== -->
-### 𝔊𝔦𝔱ℌ𝔲𝔟 𝔦𝔫 𝔐𝔬𝔱𝔦𝔬𝔫
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/github-motion.svg" alt="GitHub in Motion" />
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=francisreubenr-rvu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -76,7 +81,7 @@ class Francis:
 <br>
 
 <!-- ===================== TOP RATED PROJECTS ===================== -->
-### 𝔗𝔬𝔭 ℜ𝔞𝔱𝔢𝔡 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/top-rated.svg" alt="Top Rated Projects" />
 
 <sub>Ranked by a code-health audit — architecture, security, completeness — not star count.</sub>
 
@@ -138,7 +143,7 @@ Webcam-based guitar coach with real-time hand-landmark tracking and chord recogn
 <br>
 
 <!-- ===================== SNAKE ===================== -->
-### ℭ𝔬𝔫𝔱𝔯𝔦𝔟𝔲𝔱𝔦𝔬𝔫 𝔊𝔯𝔞𝔭𝔥
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/contribution.svg" alt="Contribution Graph" />
 
 <p align="center">
   <picture>
@@ -156,7 +161,7 @@ Webcam-based guitar coach with real-time hand-landmark tracking and chord recogn
 
 <p align="center">
 
-**𝔅𝔲𝔦𝔩𝔡 𝔦𝔱. 𝔖𝔥𝔦𝔭 𝔦𝔱. ℑ𝔱𝔢𝔯𝔞𝔱𝔢.**
+<img src="https://raw.githubusercontent.com/francisreubenr-rvu/francisreubenr-rvu/main/assets/headings/footer-motto.svg" alt="Build it. Ship it. Iterate." />
 
 </p>
 
