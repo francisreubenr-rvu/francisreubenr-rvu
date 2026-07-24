@@ -1,10 +1,22 @@
 <!-- ===================== HEADER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Francis%20Reuben%20R&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Builder%20%C2%B7%20CV%20%2B%20Accessibility%20%C2%B7%20Real-world%20tools&descAlignY=58&descSize=18" />
 
+<!-- ===================== ASCII TITLE CARD ===================== -->
+<p align="center">
+
+```
+══════════════════════════════════════════════════════════
+   𝔉 𝔯 𝔞 𝔫 𝔠 𝔦 𝔰      ℜ 𝔢 𝔲 𝔟 𝔢 𝔫      ℜ
+   ── 𝔅𝔲𝔦𝔩𝔡𝔢𝔯 · ℭ𝔙 + 𝔄𝔠𝔠𝔢𝔰𝔰𝔦𝔟𝔦𝔩𝔦𝔱𝔶 · ℜ𝔢𝔞𝔩-𝔴𝔬𝔯𝔩𝔡 𝔱𝔬𝔬𝔩𝔰 ──
+══════════════════════════════════════════════════════════
+```
+
+</p>
+
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://github.com/francisreubenr-rvu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=CS+%40+RVU+'25+%C2%B7+India;TypeScript+%2B+Python%2C+shipping+real+tools;Computer+vision+%7C+Accessibility+%7C+Healthtech;Build+it.+Ship+it.+Iterate." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=CS+%40+RVU+'25+%C2%B7+India;TypeScript+%2B+Python%2C+shipping+real+tools;Computer+vision+%7C+Accessibility+%7C+Healthtech;Build+it.+Ship+it.+Iterate." alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +33,7 @@
 <!-- ===================== ABOUT + HACKER GIF ===================== -->
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Hacker at the terminal" />
 
-### About Me
+### 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
 
 ```python
 class Francis:
@@ -39,16 +51,14 @@ class Francis:
 <br clear="right" />
 
 <!-- ===================== TECH STACK ===================== -->
-### Tech Stack
+### 𝔗𝔢𝔠𝔥 𝔖𝔱𝔞𝔠𝔨
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,python,js,react,nodejs,html,css,git,vscode,postgres&theme=dark" />
 </p>
 
-<br>
-
 <!-- ===================== GITHUB STATS ===================== -->
-### GitHub in Motion
+### 𝔊𝔦𝔱ℌ𝔲𝔟 𝔦𝔫 𝔐𝔬𝔱𝔦𝔬𝔫
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=francisreubenr-rvu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -65,68 +75,70 @@ class Francis:
 
 <br>
 
-<!-- ===================== SELECTED PROJECTS ===================== -->
-### Selected Projects
+<!-- ===================== TOP RATED PROJECTS ===================== -->
+### 𝔗𝔬𝔭 ℜ𝔞𝔱𝔢𝔡 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
+
+<sub>Ranked by a code-health audit — architecture, security, completeness — not star count.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎸 [strings-guitar](https://github.com/francisreubenr-rvu/strings-guitar)
-`TypeScript`
-Webcam-based guitar coach. Real-time hand-landmark tracking detects finger placement, recognizes chords, and guides learners through a structured curriculum.
+#### [verdict-room](https://github.com/francisreubenr-rvu/verdict-room)
+`Next.js · Prisma · Groq` — Health 4/5, mvp
+Purchase research assistant: reads reviews, flags who got paid, gives a sourced verdict.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🤟 [SignBridge](https://github.com/francisreubenr-rvu/SignBridge)
-`Python`
-Real-time sign-language recognition that closes the communication gap between signing and non-signing users. Accessibility-first design.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏥 [Emet](https://github.com/francisreubenr-rvu/Emet)
-`Python`
-Healthcare-focused application built to simplify clinical and personal health workflows.
-
-</td>
-<td width="50%" valign="top">
-
-#### 📊 [scholar-dashboard](https://github.com/francisreubenr-rvu/scholar-dashboard)
-`TypeScript`
-Academic productivity dashboard for tracking coursework, deadlines, and progress at a glance.
+#### [suzune](https://github.com/francisreubenr-rvu/suzune)
+`Tauri · Rust · ASR` — Health 4/5, mvp
+Local-first voice dictation for macOS. Press a key, speak, get clean text in any app. Nothing leaves your machine.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎓 [kcet-cutoff-explorer](https://github.com/francisreubenr-rvu/kcet-cutoff-explorer)
-`HTML`
-Turns messy public KCET admission-cutoff data into something students can navigate when picking colleges.
+#### [marque](https://github.com/francisreubenr-rvu/marque)
+`React · Vite` — Health 3/5, near-production
+SGPA calculator; the most finished, ship-ready build in this set.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 [OPUS](https://github.com/francisreubenr-rvu/OPUS---the-Adaptive-Intelligence-System)
-`Python`
-An adaptive-intelligence experiment exploring systems that adjust to user behavior.
+#### [portfolio](https://github.com/francisreubenr-rvu/portfolio)
+`Vite · React` — Health 3/5, mvp
+Personal portfolio — CS Engineer, AI/ML, Embedded, Cybersecurity, Full-Stack.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [stonks](https://github.com/francisreubenr-rvu/stonks)
+`Static · Cloudflare Worker` — Health 3/5, mvp
+Indian stock and mutual fund screener, NSE and BSE.
+
+</td>
+<td width="50%" valign="top">
+
+#### [strings-guitar](https://github.com/francisreubenr-rvu/strings-guitar)
+`Next.js · MediaPipe` — Health 2/5, prototype
+Webcam-based guitar coach with real-time hand-landmark tracking and chord recognition.
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/francisreubenr-rvu?tab=repositories"><img src="https://img.shields.io/badge/See%20all%2013%20repositories-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/francisreubenr-rvu?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br>
 
 <!-- ===================== SNAKE ===================== -->
-### Contribution Graph
+### ℭ𝔬𝔫𝔱𝔯𝔦𝔟𝔲𝔱𝔦𝔬𝔫 𝔊𝔯𝔞𝔭𝔥
 
 <p align="center">
   <picture>
