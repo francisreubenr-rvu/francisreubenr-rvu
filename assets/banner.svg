@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Francis Reuben R, CS undergraduate at RV University">
+<rect width="900" height="260" fill="#F4EEE1"/>
+<rect x="10" y="10" width="880" height="240" fill="none" stroke="#1F1B16" stroke-width="1.5"/>
+<line x1="48" y1="196" x2="852" y2="196" stroke="#CDBFA5" stroke-width="1"/>
+<text x="48" y="64" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3" fill="#B5532F">COMPUTER SCIENCE · DATA SCIENCE · RV UNIVERSITY</text>
+<text x="48" y="136" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="700" fill="#1F1B16">Francis Reuben R</text>
+<text x="48" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic" fill="#6B5F4F">Builds things end to end. Argues about them for sport.</text>
+<text x="48" y="226" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6B5F4F">Bengaluru · security · full-stack · IoT · ML · quant finance, on the side</text>
+<circle cx="840" cy="226" r="5" fill="#B5532F"/>
+</svg>

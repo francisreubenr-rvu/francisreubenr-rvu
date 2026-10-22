@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="52" viewBox="0 0 900 52" role="img" aria-label="Record">
+<rect width="900" height="52" fill="#F4EEE1"/>
+<line x1="0" y1="51" x2="900" y2="51" stroke="#1F1B16" stroke-width="1.5"/>
+<text x="14" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" fill="#1F1B16">Record</text>
+<rect x="94" y="26" width="8" height="8" fill="#B5532F"/>
+</svg>
