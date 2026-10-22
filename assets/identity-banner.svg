@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">Francis Reuben R — Engineer the unobvious</title>
+<desc id="d">Minimal technical banner in charcoal, off-white and mint, with a custom geometric circuit motif.</desc>
+<rect width="1200" height="340" fill="#0d1117"/>
+<g stroke="#263340" stroke-width="1" opacity=".75">
+<path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200M64 0V340M128 0V340M192 0V340M256 0V340M320 0V340M384 0V340M448 0V340M512 0V340M576 0V340M640 0V340M704 0V340M768 0V340M832 0V340M896 0V340M960 0V340M1024 0V340M1088 0V340M1152 0V340"/>
+</g>
+<rect x="47" y="42" width="8" height="8" fill="#80edc7"/><text x="68" y="51" fill="#a5b4c4" font-family="monospace" font-size="16" letter-spacing="2">FR / 001</text>
+<text x="48" y="129" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="53" letter-spacing="-2">FRANCIS REUBEN R.</text>
+<text x="48" y="187" fill="#80edc7" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="30" letter-spacing="1">ENGINEER THE UNOBVIOUS.</text>
+<path d="M48 219H668" stroke="#496072" stroke-width="1"/>
+<text x="48" y="254" fill="#a5b4c4" font-family="monospace" font-size="17">SYSTEMS  /  INTELLIGENCE  /  HUMAN IMPACT</text>
+<text x="48" y="309" fill="#73879a" font-family="monospace" font-size="14" letter-spacing="1">BENGALURU, INDIA  •  BUILD WITH INTENT.</text>
+<g fill="none" stroke-width="3">
+<path d="M812 253V105H1012V253H812Z" stroke="#385265"/>
+<path d="M846 219V139H978V219H846Z" stroke="#80edc7"/>
+<path d="M912 105V60M912 253V297M812 178H758M1012 178H1065" stroke="#80edc7"/>
+<path d="M846 139L812 105M978 139L1012 105M846 219L812 253M978 219L1012 253" stroke="#385265"/>
+</g>
+<circle cx="912" cy="178" r="21" fill="#80edc7"/><circle cx="912" cy="178" r="7" fill="#0d1117"/>
+<g fill="#80edc7"><circle cx="912" cy="60" r="5"/><circle cx="912" cy="297" r="5"/><circle cx="758" cy="178" r="5"/><circle cx="1065" cy="178" r="5"/></g>
+<text x="1100" y="309" fill="#617889" font-family="monospace" font-size="13">v2.0</text>
+</svg>
