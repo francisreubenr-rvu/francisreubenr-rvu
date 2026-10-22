@@ -1,56 +1,57 @@
-<p align="center">
-  <img src="./assets/identity-banner.svg" alt="Francis Reuben R — Engineer the unobvious. Systems, intelligence, human impact." width="100%">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/francisreubenr-rvu?tab=repositories">Explore the work</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/francis-reuben-r">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:francisreubenrbtech25@rvu.edu.in">Email</a>
-</p>
+<img src="assets/banner.svg" alt="Francis Reuben R, CS undergraduate at RV University" width="100%">
 
----
+</div>
 
-### Hello, I'm Francis.
+B.Tech CSE (Data Science) at RV University, Bengaluru. I start from a problem someone actually has, ship a rough version early, and rebuild it until it holds. Most of what is below was built to solve something specific, not to fill a repository list.
 
-I'm a Computer Science Engineering student specializing in Data Science at **RV University, Bengaluru**. I work across applied AI, security, computer vision, and full-stack engineering.
+<img src="assets/head-now.svg" alt="Now" width="100%">
 
-I like building things that move beyond the demo: systems with discernible architecture, explicit constraints, and actual users in mind. The interesting part isn't just making something work. It's making its behavior understandable, dependable, and useful.
+| | |
+|---|---|
+| **Studying** | Algorithms, computer networks, data science and IoT, third semester |
+| **Building** | IoT sensing hardware on an ESP32, and web products that need a real user to survive |
+| **Reading up on** | Quantitative finance, on a self-set 180-day roadmap |
+| **Looking for** | Internships in software, security or ML. Active search, nothing signed |
 
-**Currently exploring:** local-first intelligence · trustworthy AI-assisted workflows · accessible interfaces · security engineering.
+<img src="assets/head-work.svg" alt="Selected work" width="100%">
 
-### Selected work
+| Project | What it does | Built with |
+|---|---|---|
+| [**Emet**](https://github.com/francisreubenr-rvu/Emet) | RAG-based vulnerability intelligence platform. The v2.0 build won CyberShield 2026. | Python |
+| [**verdict-room**](https://github.com/francisreubenr-rvu/verdict-room) ([live](https://verdict-room.vercel.app)) | Purchase research assistant. Reads reviews, flags who got paid, gives a sourced verdict. | Next.js, Prisma, Groq |
+| [**suzune**](https://github.com/francisreubenr-rvu/suzune) | Local-first voice dictation for macOS. Press a key, speak, get clean text in any app. | Tauri, Rust |
+| [**quorum**](https://github.com/francisreubenr-rvu/quorum) | Multi-agent AI advisory boardroom. | TypeScript |
+| [**coders-zone**](https://github.com/francisreubenr-rvu/coders-zone) | Attempt-first AI coding mentor for C, C++, Java and Python coursework. | TypeScript |
+| [**strings-guitar**](https://github.com/francisreubenr-rvu/strings-guitar) | Webcam guitar coach with real-time hand tracking. | Next.js, MediaPipe |
+| [**marque**](https://github.com/francisreubenr-rvu/marque) ([live](https://francisreubenr-rvu.github.io/marque/)) | SGPA calculator. The most finished thing here. | React, Vite |
+| [**stonks**](https://github.com/francisreubenr-rvu/stonks) | Indian stock and mutual fund screener, NSE and BSE. | TypeScript, Cloudflare Worker |
 
-| Project | What it investigates |
-| :--- | :--- |
-| **[EMET](https://github.com/francisreubenr-rvu/Emet)** | **Security / threat intelligence.** Orchestrates vulnerability scanners, normalizes their findings, adds NVD, EPSS and CISA KEV context, and keeps provenance attached to the result. |
-| **[SignBridge](https://github.com/francisreubenr-rvu/SignBridge)** | **Computer vision / accessibility.** Translates supported ASL signs through hand-landmark classification, temporal stabilization, and a real-time interface, with hardware integration. |
-| **[suzune](https://github.com/francisreubenr-rvu/suzune)** | **Local-first AI / systems.** A macOS voice dictation tool that runs speech recognition and text cleanup on-device, without a cloud transcription pipeline. |
-| **[The Verdict Room](https://github.com/francisreubenr-rvu/verdict-room)** | **Evidence-driven AI.** A purchasing research workflow designed to turn scattered reviews and search results into an attributable recommendation. |
-| **[BridgeNeed](https://github.com/francisreubenr-rvu/BridgeNeed)** | **Civic technology.** A platform concept connecting needs reporting, NGO coordination, and public accountability. |
-| **[strings-guitar](https://github.com/francisreubenr-rvu/strings-guitar)** | **Human-computer interaction.** An experimental webcam-based guitar coach using hand landmarks for chord recognition. |
+Full list on the [repositories tab](https://github.com/francisreubenr-rvu?tab=repositories). Some of it is coursework and some of it is unfinished, and the commit dates will tell you which.
 
-> These projects span different stages of maturity. See each repository for implementation details, setup instructions, and current limitations.
+<img src="assets/head-record.svg" alt="Record" width="100%">
 
-### Engineering interests
+| Arena | Result |
+|---|---|
+| **Security hackathon** | CyberShield 2026 winner with Emet v2.0, built with Niharika KP, Gopreet Shaharsh and Aryan Dubey |
+| **National hackathon** | Smart India Hackathon 2026 entry, ISRO problem statement SIH26171, six-person RVU team |
+| **Debate** | Two-time State KISA Debate Champion |
+| **Model UN** | Three-time Best MUNner |
 
-`01` **Intelligent systems** — ML pipelines, computer vision, retrieval, and grounded model outputs.  
-`02` **Secure systems** — vulnerability analysis, traceability, privacy-aware design, and explicit failure modes.  
-`03` **Product engineering** — TypeScript, React/Next.js, Python, APIs, and usable interfaces.  
-`04` **Local-first computing** — on-device inference and software that minimizes unnecessary data movement.
+The debate habit is the reason my READMEs argue a position and my pull requests come with reasons.
 
-### Principles
+<img src="assets/head-toolkit.svg" alt="Toolkit" width="100%">
 
-```text
-BE CURIOUS           Ask better questions.
-BUILD DELIBERATELY   Understand the constraints.
-SHOW THE WORK        Make evidence inspectable.
-SHIP RESPONSIBLY     Name the limitations.
-```
+| Layer | Daily drivers |
+|---|---|
+| **Languages** | Python, C, TypeScript, JavaScript, SQL, Rust |
+| **Web** | React, Next.js, FastAPI, Supabase, Prisma |
+| **Ship** | Git, Vercel, Railway, Cloudflare Workers, OpenRouter |
+| **Hardware** | ESP32 sensor nodes |
 
-### Elsewhere
+<img src="assets/head-contact.svg" alt="Find me" width="100%">
 
-Based in **Bengaluru, India**. Open to thoughtful technical collaboration and conversations about building useful systems.
+[LinkedIn](https://www.linkedin.com/in/francisreubenr) · [GitHub](https://github.com/francisreubenr-rvu)
 
-**[Repositories](https://github.com/francisreubenr-rvu?tab=repositories)** · **[LinkedIn](https://www.linkedin.com/in/francis-reuben-r)** · **[Email](mailto:francisreubenrbtech25@rvu.edu.in)**
-
-<sub>Built to be read, not scrolled past. Last editorial refresh: October 2026.</sub>
+If you have an internship that needs someone who ships and can defend the design afterwards, message me on LinkedIn.
