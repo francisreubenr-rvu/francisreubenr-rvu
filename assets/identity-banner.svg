@@ -1,23 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
-<title id="t">Francis Reuben R — Engineer the unobvious</title>
-<desc id="d">Minimal technical banner in charcoal, off-white and mint, with a custom geometric circuit motif.</desc>
-<rect width="1200" height="340" fill="#0d1117"/>
-<g stroke="#263340" stroke-width="1" opacity=".75">
-<path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200M64 0V340M128 0V340M192 0V340M256 0V340M320 0V340M384 0V340M448 0V340M512 0V340M576 0V340M640 0V340M704 0V340M768 0V340M832 0V340M896 0V340M960 0V340M1024 0V340M1088 0V340M1152 0V340"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Francis Reuben R — Engineer the unobvious</title>
+<desc id="desc">An asymmetric editorial identity in deep aubergine, warm ivory and persimmon, featuring large typography and a precision-drawn orbital monogram.</desc>
+<defs><pattern id="grain" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".55" fill="#F5E9D7" opacity=".17"/><circle cx="17" cy="22" r=".65" fill="#F5E9D7" opacity=".12"/></pattern><clipPath id="edge"><rect width="1280" height="420"/></clipPath></defs>
+<rect width="1280" height="420" fill="#24152C"/>
+<rect width="1280" height="420" fill="url(#grain)"/>
+<rect width="12" height="420" fill="#FF6B42"/>
+<g clip-path="url(#edge)">
+<circle cx="1060" cy="205" r="232" fill="none" stroke="#725368" stroke-width="1"/>
+<circle cx="1060" cy="205" r="184" fill="none" stroke="#725368" stroke-width="1"/>
+<circle cx="1060" cy="205" r="133" fill="none" stroke="#F5E9D7" opacity=".38" stroke-width="1.5"/>
+<circle cx="1060" cy="205" r="82" fill="#FF6B42"/>
+<path d="M1030 159V254M1030 159H1070C1108 159 1108 202 1068 202H1030M1066 202L1104 254" stroke="#24152C" stroke-width="13" fill="none" stroke-linecap="square" stroke-linejoin="miter"/>
+<circle cx="1060" cy="21" r="8" fill="#FF6B42"/>
+<circle cx="1193" cy="205" r="6" fill="#F5E9D7"/>
+<path d="M1060 0V420M827 205H1280" stroke="#725368" stroke-width="1" stroke-dasharray="3 9"/>
+<path d="M836 345L1227 54" stroke="#FF6B42" stroke-width="2"/>
+<rect x="834" y="342" width="12" height="12" fill="#FF6B42" transform="rotate(-36 840 348)"/>
 </g>
-<rect x="47" y="42" width="8" height="8" fill="#80edc7"/><text x="68" y="51" fill="#a5b4c4" font-family="monospace" font-size="16" letter-spacing="2">FR / 001</text>
-<text x="48" y="129" fill="#e6edf3" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="53" letter-spacing="-2">FRANCIS REUBEN R.</text>
-<text x="48" y="187" fill="#80edc7" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="30" letter-spacing="1">ENGINEER THE UNOBVIOUS.</text>
-<path d="M48 219H668" stroke="#496072" stroke-width="1"/>
-<text x="48" y="254" fill="#a5b4c4" font-family="monospace" font-size="17">SYSTEMS  /  INTELLIGENCE  /  HUMAN IMPACT</text>
-<text x="48" y="309" fill="#73879a" font-family="monospace" font-size="14" letter-spacing="1">BENGALURU, INDIA  •  BUILD WITH INTENT.</text>
-<g fill="none" stroke-width="3">
-<path d="M812 253V105H1012V253H812Z" stroke="#385265"/>
-<path d="M846 219V139H978V219H846Z" stroke="#80edc7"/>
-<path d="M912 105V60M912 253V297M812 178H758M1012 178H1065" stroke="#80edc7"/>
-<path d="M846 139L812 105M978 139L1012 105M846 219L812 253M978 219L1012 253" stroke="#385265"/>
-</g>
-<circle cx="912" cy="178" r="21" fill="#80edc7"/><circle cx="912" cy="178" r="7" fill="#0d1117"/>
-<g fill="#80edc7"><circle cx="912" cy="60" r="5"/><circle cx="912" cy="297" r="5"/><circle cx="758" cy="178" r="5"/><circle cx="1065" cy="178" r="5"/></g>
-<text x="1100" y="309" fill="#617889" font-family="monospace" font-size="13">v2.0</text>
+<text x="55" y="60" fill="#FF6B42" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="16" letter-spacing="4">FR / INDEPENDENT ENGINEERING PRACTICE</text>
+<path d="M55 82H749" stroke="#725368" stroke-width="1"/>
+<text x="51" y="182" fill="#F5E9D7" font-family="Georgia, Times New Roman, serif" font-size="100" letter-spacing="-5">Francis</text>
+<text x="51" y="282" fill="#F5E9D7" font-family="Georgia, Times New Roman, serif" font-size="100" letter-spacing="-5">Reuben R.</text>
+<text x="57" y="335" fill="#FF6B42" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="24" letter-spacing="1.2">ENGINEER THE UNOBVIOUS.</text>
+<path d="M55 366H748" stroke="#725368" stroke-width="1"/>
+<text x="57" y="395" fill="#C7B6C2" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">AI / SECURITY / SYSTEMS / HUMAN IMPACT</text>
+<text x="1219" y="394" text-anchor="end" fill="#F5E9D7" font-family="monospace" font-size="12">BLR · 2026</text>
 </svg>
